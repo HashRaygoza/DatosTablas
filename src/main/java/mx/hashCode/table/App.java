@@ -1,7 +1,7 @@
 package mx.hashCode.table;
 
 /**
- * Hello world!
+ * DatosTabla, un ejemplo de como leer los datos que estan en un JTable
  *
  */
 public class App 
